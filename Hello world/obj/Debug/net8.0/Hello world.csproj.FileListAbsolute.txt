@@ -13,3 +13,18 @@ C:\Users\taliy\Desktop\Webbapp_demos\Hello world\obj\Debug\net8.0\refint\Hello w
 C:\Users\taliy\Desktop\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.pdb
 C:\Users\taliy\Desktop\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.genruntimeconfig.cache
 C:\Users\taliy\Desktop\Webbapp_demos\Hello world\obj\Debug\net8.0\ref\Hello world.dll
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\bin\Debug\net8.0\Hello world.exe
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\bin\Debug\net8.0\Hello world.deps.json
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\bin\Debug\net8.0\Hello world.runtimeconfig.json
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\bin\Debug\net8.0\Hello world.dll
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\bin\Debug\net8.0\Hello world.pdb
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.AssemblyInfoInputs.cache
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.AssemblyInfo.cs
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.sourcelink.json
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.dll
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\refint\Hello world.dll
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.pdb
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\Hello world.genruntimeconfig.cache
+C:\Users\Leila\Desktop\exam data2410\Webbapp_demos\Hello world\obj\Debug\net8.0\ref\Hello world.dll

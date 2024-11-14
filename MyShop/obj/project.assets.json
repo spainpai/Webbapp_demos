@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leila\\.nuget\\packages\\": {}
+    "C:\\Users\\taliy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leila\\Desktop\\exam data2410\\Webbapp_demos\\MyShop\\MyShop.csproj",
+      "projectUniqueName": "C:\\Users\\taliy\\Desktop\\oblig2\\Webbapp_demos\\MyShop\\MyShop.csproj",
       "projectName": "MyShop",
-      "projectPath": "C:\\Users\\Leila\\Desktop\\exam data2410\\Webbapp_demos\\MyShop\\MyShop.csproj",
-      "packagesPath": "C:\\Users\\Leila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leila\\Desktop\\exam data2410\\Webbapp_demos\\MyShop\\obj\\",
+      "projectPath": "C:\\Users\\taliy\\Desktop\\oblig2\\Webbapp_demos\\MyShop\\MyShop.csproj",
+      "packagesPath": "C:\\Users\\taliy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\taliy\\Desktop\\oblig2\\Webbapp_demos\\MyShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leila\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\taliy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
